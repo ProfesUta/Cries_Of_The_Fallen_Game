@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CppVersion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:/GitClone/Cries_Of_The_Fallen_Game/CppVersion/Intermediate/Build/Win64/x64/CppVersionEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"F:/GitClone/Cries_Of_The_Fallen_Game/CppVersion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CppVersion/CppVersion.cpp.obj"
+"F:/GitClone/Cries_Of_The_Fallen_Game/CppVersion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CppVersion/PerModuleInline.gen.cpp.obj"
+"F:/GitClone/Cries_Of_The_Fallen_Game/CppVersion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CppVersion/Default.rc2.res"
+/OUT:"F:/GitClone/Cries_Of_The_Fallen_Game/CppVersion/Intermediate/Build/Win64/x64/UnrealEditor/Development/CppVersion/UnrealEditor-CppVersion.lib"

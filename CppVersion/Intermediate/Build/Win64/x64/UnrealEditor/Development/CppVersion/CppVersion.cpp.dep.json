@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\gitclone\\cries_of_the_fallen_game\\cppversion\\source\\cppversion\\cppversion.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\gitclone\\cries_of_the_fallen_game\\cppversion\\intermediate\\build\\win64\\x64\\cppversioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\gitclone\\cries_of_the_fallen_game\\cppversion\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\cppversion\\definitions.cppversion.h",
+            "f:\\gitclone\\cries_of_the_fallen_game\\cppversion\\source\\cppversion\\cppversion.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
